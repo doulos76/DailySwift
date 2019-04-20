@@ -13,4 +13,4 @@
 * Project
 [ViewController.swift](/source/HelloSwift/HelloSwift/ViewController.swift)
 * Playground
-[MyPlayground](/source/MyPlayground.swift)
+[MyPlayground](/source/MyPlayground.playground/Contents.swift)
