@@ -14,3 +14,7 @@
 [ViewController.swift](/source/HelloSwift/HelloSwift/ViewController.swift)
 * Playground
 [MyPlayground](/source/MyPlayground.playground/Contents.swift)
+
+## Contents
+
+-  Remark & Print [link](SwiftRemarkAndPrint.md)
