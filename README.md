@@ -36,7 +36,7 @@
 * Initialization
 * Deinitialization
 * Optional Chanining
-* Error Handling
+* Error Handling[[link](ErrorHandling.md)]
 * Type Casting
 * Nested Types
 * Extensions
