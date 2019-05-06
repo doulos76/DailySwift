@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='OptionalBinding'/>
+        <page name='OptionalTypes'/>
+        <page name='ImplicitlyUnwrappingOptionals'/>
+        <page name='Nil-CoalescingOperator'/>
+        <page name='OptionalChaining'/>
+        <page name='OptionalPattern'/>
+    </pages>
+</playground>
