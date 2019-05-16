@@ -29,7 +29,7 @@
 * Closures
 * Enumeration
 * Structures and Classes
-* Properties
+* Properties [[link](Properties.md)]
 * Methods
 * Subscripts
 * Inheritance
