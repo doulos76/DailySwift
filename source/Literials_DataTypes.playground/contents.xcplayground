@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='DataTypeWithMemory'/>
+        <page name='Numbers'/>
+        <page name='Boolean'/>
+        <page name='StringsAndCharacters'/>
+        <page name='TypeInference'/>
+        <page name='TypeSafety'/>
+        <page name='TypeConversion'/>
+        <page name='TypeAlias'/>
+    </pages>
+</playground>
